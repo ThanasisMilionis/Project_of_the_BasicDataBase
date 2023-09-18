@@ -1,4 +1,4 @@
-# Project_of_the_BasicDataBase
+# Project_of_the_BasicDataBase_SQL
 
 Χρήση εργαλείου για το Προτζεκτ : pgAdmin 4
 
